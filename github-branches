@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert a8b7edc Add PR verification file
+  bug-fix-typo   42bfafd Fix typo in README.md
+  main           57aed87 [origin/main] Add merge verification file
